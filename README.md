@@ -1,5 +1,6 @@
 # MyBlazor-TodoList
 MyBlazor-TodoList Example &amp; Features tests
+Using: Dot Net Code 9.0  and Visual Studio 2022 Pro
 
 * Main Folders:
 .\Components  &   .\Layouts
