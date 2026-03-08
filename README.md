@@ -1,4 +1,4 @@
-# MyBlazor-TodoList
+# Blazor-MyTodoList
 MyBlazor-TodoList Example &amp; Features tests
 Using: Dot Net Code 9.0  and Visual Studio 2022 Pro
 
