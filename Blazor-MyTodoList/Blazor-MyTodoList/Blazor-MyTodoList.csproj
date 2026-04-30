@@ -6,6 +6,7 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <RootNamespace>Blazor-MyTodoList</RootNamespace>
     <AssemblyName>$(AssemblyName.Replace(' ', '_'))</AssemblyName>
+    <BaseOutputPath>..\Output</BaseOutputPath>
   </PropertyGroup>
 
   <ItemGroup>

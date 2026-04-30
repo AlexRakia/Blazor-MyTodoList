@@ -8,6 +8,7 @@
     <StaticWebAssetProjectMode>Default</StaticWebAssetProjectMode>
     <RootNamespace>Blazor-MyTodoList.Client</RootNamespace>
     <AssemblyName>$(AssemblyName.Replace(' ', '_'))</AssemblyName>
+    <BaseOutputPath>..\Output</BaseOutputPath>
   </PropertyGroup>
 
   <ItemGroup>

@@ -1,2 +1,6 @@
 /*.user
 /obj
+/Blazor-MyTodoList/Blazor-MyTodoList/obj
+/Blazor-MyTodoList/Blazor-MyTodoList/bin
+/.vs
+/Blazor-MyTodoList/Blazor-MyTodoList.Client/obj
